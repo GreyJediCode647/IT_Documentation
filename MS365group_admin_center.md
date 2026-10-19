@@ -1,14 +1,14 @@
-Tittle:
+# Tittle:
 Create and manage group, including Microsoft 365 Group and shared mailbox [Microsoft 365 Admin Center]
 
-Purpose:
+## Purpose:
 Create MS365 group and shared mailbox.
 
-Prerequisites:
+# Prerequisites:
 - Microsoft 365 Business Basic (Licence)
 - Global Administrator, Exchange Administrator, Groups Administrator, or Directory Writers (Role)
 
-Procedure:
+# Procedure:
 
 1. Visit Microsoft 365 Admin Center (admin.microsoft.com).
 2. On the Left-hand-side of the screen look for Teams & groups and click on it.
@@ -22,8 +22,8 @@ Procedure:
 10. Now you are on the Review and finish adding group page where you can review all the information that you just entered to create the group once you have checked wverything is right click on Create group and the group will be created. 
 11. Once the group has been created and the meembers are added you will come to page name {Group name} group created with a green tick mark stating the group has been created successfully. Click on Close to exit the wizard. 
 
-Verifiaction:
+# Verifiaction:
 
-1. Once again you land back on Active teams and groups page, on the Right-hand-side of the page you can find a search tab to look for your group that you just created to confirm that it has been created. 
-2. Click on the group, you can see the properties and settings of the group that you can change nay time as you chose. 
+-  Once again you land back on Active teams and groups page, on the Right-hand-side of the page you can find a search tab to look for your group that you just created to confirm that it has been created. 
+- Click on the group, you can see the properties and settings of the group that you can change nay time as you chose. 
 
