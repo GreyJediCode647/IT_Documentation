@@ -1,3 +1,0 @@
-**Bold**
-*Italic*
-`Inline Code`
