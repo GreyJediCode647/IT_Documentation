@@ -1,0 +1,18 @@
+# Title:
+
+Implement and manage roles in Microsoft Entra ID.
+
+## Purpose:
+To create roles in Microsoft Entra ID and manage them.
+
+## Prerequiest
+- Microsoft Business Basic (License)
+- Global adminstrator (Role)
+
+## Procedure
+
+**STEP 1: OPEN MICROSOFT ENTRA ID**
+
+1. Sign in to [Azure Portal](https://portal.azure.com).
+2. Click on menue button and go to Microsoft Entra ID.
+3. 
