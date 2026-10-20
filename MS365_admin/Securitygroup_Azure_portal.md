@@ -28,10 +28,13 @@ Create Security group using Azure portal
 
 1. Click on owners to  assign the owner of this group, browaer through the list and select the user.
 
-**STEP 4: CREATE DYNAMIC MEMNERSHIP RULE**
+**STEP 4: CREATE DYNAMIC MEMBERSHIP RULE**
 
 1. If you have slected for dynamic membership, do the following step to set the Dynamic Membership Rule.
 2. Under Dynamic user member click on Add dynamic query. On this page setup the expression using the property, expression and values.
 3. Click on Save once you have entered the rule.
 
-
+| Coloum 1 | Coloum 2 | Cloloum 3|
+|----------|----------|----------|
+| data 1 | data 2 | data 3 |
+| things 4 | things 5 | jarvis is great |
