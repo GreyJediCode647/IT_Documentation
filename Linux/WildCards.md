@@ -3,4 +3,4 @@ A Wildcard is a character that can be used as a susbtitute for any of a class of
 
 - (*) Represent zero or more characters
 - ? Represent a single character
-- [] Represent a range of chracter
+- [ ] Represent a range of chracter
